@@ -1353,3 +1353,28 @@ api:http://m.kugou.com/rank/info/?rankid=33419&page=1&json=true   (这里以获�
 }
 ```
 
+##### 歌单
+
+api :  http://m.kugou.com/plist/index&json=true
+
+###### 歌单下的各个子列表
+
+api :  http://m.kugou.com/plist/list/540057?json=true
+
+参数说明： specialid 540057
+
+##### 歌手
+
+api:  http://m.kugou.com/singer/list/88?json=true
+
+###### 获取歌手分类下面的子列表
+
+参数说明：  歌手id   3060
+
+api：  http://m.kugou.com/singer/info/3520&json=true
+
+###### 获取歌曲音乐详情
+
+hash:音乐列表下的音乐id
+
+api：  
