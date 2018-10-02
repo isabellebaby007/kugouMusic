@@ -1369,7 +1369,7 @@ api:  http://m.kugou.com/singer/list/88?json=true
 
 ###### 获取歌手分类下面的子列表
 
-参数说明：  歌手id   3060
+参数说明：  歌手id   3520   （周杰伦）
 
 api：  http://m.kugou.com/singer/info/3520&json=true
 
